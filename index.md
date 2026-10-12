@@ -9,4 +9,4 @@ A Chrome extension that puts your tabs into tab groups automatically, by rules y
 - **[Report a problem or suggest an idea](report/)** — with a short form (no account needed), a GitHub issue or by email.
 - **[Privacy policy](https://harlinskyi-k.github.io/orderly-tabs-support/privacy/)** — the extension collects nothing; everything stays in your browser.
 - **[Security policy](https://harlinskyi-k.github.io/orderly-tabs-support/security/)** — how to report a vulnerability privately.
-- **[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/cefpnhkapagecpalfnkjbbccmgpdaimn)**
+- **[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/mcifpppneigmheohfhejbcjoaabjeghf)**
