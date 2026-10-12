@@ -20,7 +20,7 @@ Only the latest version published in the Chrome Web Store receives security fixe
 
 Report privately through one of these channels:
 
-1. **GitHub private vulnerability reporting** — open the [Security tab of the support repository](https://github.com/harlinskyi-k/auto-tab-grouper-support/security) → **Report a vulnerability**. Only the maintainer sees the report.
+1. **GitHub private vulnerability reporting** — open the [Security tab of the support repository](https://github.com/harlinskyi-k/orderly-tabs-support/security) → **Report a vulnerability**. Only the maintainer sees the report.
 2. **Email** — [k.harlinskyi@gmail.com](mailto:k.harlinskyi@gmail.com) with the subject `Orderly Tabs security`.
 
 Please include:
@@ -57,7 +57,7 @@ For context when assessing a report:
 
 - **No network access.** The extension makes no network requests, has no analytics and requests no host permissions.
 - **No remote code.** All JavaScript is in the package; translations are loaded only from the extension's own files. The default Manifest V3 content security policy applies.
-- **Minimal permissions:** `tabs`, `tabGroups`, `storage`, `contextMenus`, `alarms`, `sidePanel` — see the [privacy policy](https://harlinskyi-k.github.io/auto-tab-grouper-support/privacy/#permissions) for what each is used for.
+- **Minimal permissions:** `tabs`, `tabGroups`, `storage`, `contextMenus`, `alarms`, `sidePanel` — see the [privacy policy](https://harlinskyi-k.github.io/orderly-tabs-support/privacy/#permissions) for what each is used for.
 - **On-device AI only.** "Group by topic" uses the language model Chrome runs on the device (Prompt API); tab titles are passed to it and nowhere else.
 - **Untrusted input is escaped.** Rule titles, patterns and imported data are HTML-escaped before rendering; imported files are size-limited (1 MB), parsed as JSON only and normalized before use.
 - **Data stays local.** Rules and settings live in `chrome.storage` (synced by Chrome itself when Chrome Sync is on); nothing is sent anywhere by the extension.

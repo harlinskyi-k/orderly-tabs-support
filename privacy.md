@@ -65,4 +65,4 @@ If this policy changes, the new version will be published at the same address wi
 
 ## Contact
 
-Questions about this policy: [k.harlinskyi@gmail.com](mailto:k.harlinskyi@gmail.com) or [the support page](https://github.com/harlinskyi-k/auto-tab-grouper-support/issues/new/choose).
+Questions about this policy: [k.harlinskyi@gmail.com](mailto:k.harlinskyi@gmail.com) or [the support page](https://github.com/harlinskyi-k/orderly-tabs-support/issues/new/choose).

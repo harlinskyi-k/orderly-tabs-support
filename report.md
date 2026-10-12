@@ -12,7 +12,7 @@ Choose how you'd like to write. You can write in any language.
     <strong>Without an account</strong>
     <span>A short form. Leave your email if you'd like a reply.</span>
   </a>
-  <a class="choice" id="choice-github" href="https://github.com/harlinskyi-k/auto-tab-grouper-support/issues/new/choose">
+  <a class="choice" id="choice-github" href="https://github.com/harlinskyi-k/orderly-tabs-support/issues/new/choose">
     <strong>On GitHub</strong>
     <span>Open an issue (a free GitHub account is needed). Others can follow and add to it.</span>
   </a>
@@ -52,7 +52,7 @@ Choose how you'd like to write. You can write in any language.
     document.getElementById('choice-form').href = form.href;
 
     // GitHub issue forms are prefilled by field id (see .github/ISSUE_TEMPLATE/bug.yml).
-    var github = new URL('https://github.com/harlinskyi-k/auto-tab-grouper-support/issues/new');
+    var github = new URL('https://github.com/harlinskyi-k/orderly-tabs-support/issues/new');
     github.searchParams.set('template', 'bug.yml');
     if (info.version) github.searchParams.set('version', info.version);
     if (info.chrome || info.os) github.searchParams.set('chrome', [info.chrome && 'Chrome ' + info.chrome, info.os].filter(Boolean).join(', '));
