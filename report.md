@@ -1,5 +1,5 @@
 ---
-title: Report a problem — Auto Tab Grouper
+title: Report a problem — Orderly Tabs
 permalink: /report/
 ---
 
@@ -59,7 +59,7 @@ Choose how you'd like to write. You can write in any language.
     document.getElementById('choice-github').href = github.href;
 
     var lines = Object.keys(info).map(function (key) { return key + ': ' + info[key]; });
-    document.getElementById('choice-email').href = 'mailto:k.harlinskyi@gmail.com?subject=' + encodeURIComponent('Auto Tab Grouper') +
+    document.getElementById('choice-email').href = 'mailto:k.harlinskyi@gmail.com?subject=' + encodeURIComponent('Orderly Tabs') +
       '&body=' + encodeURIComponent('\n\n---\n' + lines.join('\n'));
 
     var details = document.getElementById('details');

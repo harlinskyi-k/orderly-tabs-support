@@ -1,8 +1,8 @@
 ---
-title: Auto Tab Grouper — Support
+title: Orderly Tabs — Support
 ---
 
-# Auto Tab Grouper
+# Orderly Tabs
 
 A Chrome extension that puts your tabs into tab groups automatically, by rules you write.
 

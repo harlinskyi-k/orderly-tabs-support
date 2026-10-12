@@ -22,7 +22,7 @@ body:
     id: version
     attributes:
       label: Extension version
-      description: At the bottom of Settings in the extension, or chrome://extensions → Auto Tab Grouper → Details.
+      description: At the bottom of Settings in the extension, or chrome://extensions → Orderly Tabs → Details.
       placeholder: "2.0.0"
     validations:
       required: true

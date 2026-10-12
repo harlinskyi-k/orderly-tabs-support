@@ -1,5 +1,5 @@
 ---
-title: Security Policy — Auto Tab Grouper
+title: Security Policy — Orderly Tabs
 permalink: /security/
 ---
 
@@ -9,10 +9,10 @@ permalink: /security/
 
 Only the latest version published in the Chrome Web Store receives security fixes. Chrome updates extensions automatically, so a fix reaches users with the next release.
 
-| Version | Supported |
-|---|---|
-| Latest Chrome Web Store release | ✅ |
-| Older versions | ❌ |
+| Version                         | Supported |
+| ------------------------------- | --------- |
+| Latest Chrome Web Store release | ✅        |
+| Older versions                  | ❌        |
 
 ## Reporting a vulnerability
 
@@ -21,11 +21,11 @@ Only the latest version published in the Chrome Web Store receives security fixe
 Report privately through one of these channels:
 
 1. **GitHub private vulnerability reporting** — open the [Security tab of the support repository](https://github.com/harlinskyi-k/auto-tab-grouper-support/security) → **Report a vulnerability**. Only the maintainer sees the report.
-2. **Email** — [k.harlinskyi@gmail.com](mailto:k.harlinskyi@gmail.com) with the subject `Auto Tab Grouper security`.
+2. **Email** — [k.harlinskyi@gmail.com](mailto:k.harlinskyi@gmail.com) with the subject `Orderly Tabs security`.
 
 Please include:
 
-- the extension version (`chrome://extensions` → Auto Tab Grouper → Details);
+- the extension version (`chrome://extensions` → Orderly Tabs → Details);
 - your Chrome version and operating system;
 - steps to reproduce, and a proof of concept if you have one (for example, a rules JSON file used with **Import**);
 - the impact you expect (what an attacker could read, change or run).
